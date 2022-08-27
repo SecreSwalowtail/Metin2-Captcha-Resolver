@@ -5,7 +5,7 @@ When you use this , it automatically detects the numbers from captcha and inputs
 ![](example.gif)
 # How to setup
 1. Download the repository
-2. Download PyCharm (or start main.py using python)
+2. Download PyCharm (or start main.py using python) https://www.jetbrains.com/pycharm/download/#section=windows
 3. Download PyTessaract from here : https://github.com/UB-Mannheim/tesseract/wiki
 4. Make sure you install tessaract to C:\Program Files\Tesseract-OCR\tesseract (pytesseract.pytesseract.tesseract_cmd in main.py)
 5. Start main.py using PyCharm
