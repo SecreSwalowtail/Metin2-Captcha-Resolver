@@ -15,3 +15,4 @@ When you use this , it automatically detects the numbers from captcha and inputs
 # Misc
 It was made with 1360x768 client resolution but it should work on any
 Will click button automatically Soon™
+Secre#4779 if something doesn't work
