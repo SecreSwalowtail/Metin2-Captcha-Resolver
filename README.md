@@ -18,4 +18,4 @@ I recomand using PyCharm if you don't know to use python well
 5. Run main
 # Misc
 Made on 1360x768 client resolution, might not work for other  
-Code rewrite soon™ + GUI + Windows Executable
+Code rewrite soon™ + GUI + Windows Executable  
