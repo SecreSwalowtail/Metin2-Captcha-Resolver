@@ -1,19 +1,20 @@
 # Nostalgia2 CaptchaResolver
-When you farm , you randomly get a captcha prompt for botting and afk detection.
-When you use this , it automatically detects the numbers from captcha and inputs them for you
+Automatic captcha detection and typing
+You still need to press the button so it can't be used with 
 # Example
 ![](example.gif)
 # How to setup
-1. Download the repository
-2. Download PyCharm (or start main.py using python) https://www.jetbrains.com/pycharm/download/#section=windows
-3. Download PyTessaract from here : https://github.com/UB-Mannheim/tesseract/wiki
-4. Make sure you install tessaract to C:\Program Files\Tesseract-OCR\tesseract (pytesseract.pytesseract.tesseract_cmd in main.py)
-5. Start main.py using PyCharm
-6. Install packages in requirements.txt
-7. Set up new configuration if asked by setting the script path to main.py
-8. Press run
+1. Download and install tessaract
+2. Modify path in main.py if you installed to some other
+3. Install dependency from setup.py and requirements
+4. Start main.py
+# PyCharm
+I recomand using PyCharm if you don't know to use python well
+1.Do everything until step 3
+2.Install PyCharm
+3.START PYCHARM WITH RUN AS ADMINISTRATOR OR INPUT WONT WORK
+4.Using Python Packages install required packages
+5.Run main
 # Misc
-It was made with 1360x768 client resolution but it should work on any
-Will click button automatically Soon™
-Secre#4779 if something doesn't work
-!!! IMPORTANT !!!  MUST BE RUN AS ADMINISTRATOR OR NO INPUT
+Made on 1360x768 client resolution, might not work for other
+Code rewrite soon™ + GUI + Windows Executable
